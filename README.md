@@ -13,7 +13,7 @@ Most of records without sand had uniform amplitude and period. However, records 
  
 ### 🔉 Here are the spectrograms
 
-*(first example is with the fall of sand and second is without)*
+*(second example is with the fall of sand and first is without)*
 
 ![image](https://user-images.githubusercontent.com/72515541/231124122-e89feaea-94a0-4e9f-b8dc-9547de8335f1.png)
 
