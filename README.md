@@ -30,7 +30,7 @@ That's why I created some features, which were showing whether there was a diffe
 ### Class distribution
 ![image](https://user-images.githubusercontent.com/72515541/231126942-64000850-775c-471b-866b-b7671c5ada81.png)
 
-As you can see, the count of target class was 6 times smaller. I solved this problem using library NearMiss which deletes similar samples of majoritarian class. However, some models I trained with of all of the data.
+As you can see, the count of target class was 6 times smaller. I solved this problem using library NearMiss which deletes similar samples of majoritarian class. However, some models I trained with all of the data.
 
 ## Models
 
