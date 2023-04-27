@@ -1,6 +1,6 @@
 # TGT-hack
 ## ⌛ Task
-Most of the hydrocarbons we extract from the ground. In the production of hydrocarbons, the appearance of sand is very dangerous because it can cause expensive repairs. In oreder to save company money and time, we had to classify audio data in oreder to find which recorded falling sand on the pipe. 
+Most of the hydrocarbons we extract from the ground. In the production of hydrocarbons, the appearance of sand is very dangerous because it can cause expensive repairs. In order to save company money and time, we had to classify audio data in order to find which recorded sand falling on the pipe. 
 
 💰 The first place prize was 150.000 rubles. Second and third got 100.000 and 50.000 rubles.
 
